@@ -1,5 +1,6 @@
 # ILMF-FND
 Code for paper "Contrastive Learning of Cross-modal Information Enhancement for Multimodal Fake News Detection".
+Since the article is not yet published, only part of the code is given here.
 
 # Dependency
 + python 3.5+
